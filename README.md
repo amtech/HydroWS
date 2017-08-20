@@ -22,7 +22,7 @@ HydroWS水利供水管线设计工具是一款方便快捷的供水管线设计�
 
 ## Documentation
 
-* [中文文档]——请查阅《供水管线设计工具软件使用说明书》
+* [中文文档]——请查阅《HydroWS水利供水管线设计工具使用说明书》
 
 ## 免费开源和问题反馈
 * 网站地址[http://3xxx.github.io/](http://3xxx.github.io/)
@@ -33,3 +33,5 @@ HydroWS水利供水管线设计工具是一款方便快捷的供水管线设计�
 
 HydroWS source code is licensed under the Apache Licence, Version 2.0
 (http://www.apache.org/licenses/LICENSE-2.0.html).
+
+![](http://i.imgur.com/Ypz2OD4.png)
